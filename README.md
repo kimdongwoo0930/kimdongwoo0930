@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 </a>
         </div>  <br> 
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
-      <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=kimdongwoo0930" width="42%" height="100%"/>
-    </div>
+    <div align="center">
+  <img 
+    src="https://mazassumnida.wtf/api/generate_badge?boj=kimdongwoo0930"
+    width="42%"
+  />
+</div>
