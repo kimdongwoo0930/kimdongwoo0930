@@ -50,4 +50,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
         </div>  <br> 
-   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img alt="algorithms" src="https://mazassumnida.wtf/api/generate_badge?boj=kimdongwoo0930" width="42%" height="100%"/> </div>
+   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img alt="algorithms"
+       src="https://mazassumnida.wtf/api/generate_badge?boj=kimdongwoo0930&v=1"
+       width="42%" /> </div>
