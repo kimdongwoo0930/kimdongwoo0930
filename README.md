@@ -3,7 +3,7 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0cd4,100:1623d4&height=180&text=Dongwoo's%20GitHub&animation=twinkling&fontColor=ffffff&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e0cd4,100:1623d4&height=180&text=Dong.Log&animation=twinkling&fontColor=ffffff&fontSize=50" />
 </div>
 
 <div align="center">
